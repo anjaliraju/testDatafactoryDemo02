@@ -1,0 +1,9 @@
+{
+	"name": "testazuredatfactory015",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7381ebf3-ce17-4173-9461-a4ebe7e1341f",
+		"tenantId": "c00567ba-168e-4a2c-85c4-abe2d170094d"
+	}
+}
